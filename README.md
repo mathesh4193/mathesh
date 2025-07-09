@@ -1,96 +1,61 @@
-# 👋 Hi, I'm Mathesh M
+# Hi 👋, I'm Mathesh M
 
-🎓 Final-year Computer Science Engineering student at Velammal College of Engineering and Technology, Madurai  
-🔧 Full Stack Developer | 💻 Android & Cloud Enthusiast  
-📍 Madurai, India | 📫 mathesh4193@gmail.com
-
----
-
-## 🚀 About Me
-
-I'm a passionate and self-driven developer with a strong focus on building **scalable web and mobile applications**.  
-I have hands-on experience in **MERN stack**, **Android Development**, and **Cloud-based deployment using AWS & Docker**.
+Hello! I'm **Mathesh M**, a Computer Science Engineering student from Velammal College of Engineering and Technology, Madurai.  
+I'm passionate about full stack development and mobile app development. I enjoy building real-world, scalable solutions that make an impact.  
+I'm always curious to explore new technologies and constantly improve my skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🔭 Current Projects
 
-### 💻 Programming Languages  
-`Java`  `C` 
+- **🏨 Hostel Management System**  
+  A cloud-based system for handling student attendance, leave, outpass, warden approvals, and mess tracking.  
+  👉 [hostel-management-vcet.netlify.app](https://hostel-management-vcet.netlify.app/)
 
-### 🔙 Backend & Frameworks  
-`Node.js` `Express.js`
+- **💪 FitBuddy** – A mobile app to find gym partners within 5km  
+  Built using React Native and Node.js  
+  Features: Chat, Emergency Button, Trainer Selection, Workout Scheduling
 
-### 🌐 Frontend  
-`React.js` `HTML` `CSS` `JavaScript`
-
-### 🗃️ Databases  
-`MongoDB` `MySQL` `Firebase`
-
-### ☁️ Cloud & DevOps  
-`AWS` `Docker` `GitLab` `Networking`
+- **🍬 Sweet Store Management**  
+  Flutter app with Firebase for fund tracking, snack purchases, and delivery tracking
 
 ---
 
-## 💼 Internships & Experience
+## 🌱 Currently Learning
 
-### 📱 Android App Developer Intern  
-**National Small Industries Corporation Ltd, Chennai**  
-*Dec 2023 – Jan 2024*  
-- Developed and maintained core features of a healthcare-focused Android app using Java and Android Studio  
-- Integrated backend services with front-end UI for seamless UX  
-- Debugged, tested, and resolved key functional issues
-
-### ☁️ Cloud Computing Intern  
-**Quantanics Techserv Pvt Ltd, Madurai**  
-*June 13 – July 13, 2024*  
-- Designed and deployed real-world cloud solutions  
-- Hands-on with scalable cloud infrastructure and deployment tools  
-- Collaborated on secure architecture using modern cloud practices
+- `React Native`  
+- `Cloud Deployment with AWS & Docker`  
+- `Advanced JavaScript`  
 
 ---
 
-## 📚 Academic Projects
+## 💬 Ask Me About
 
-### 🏨 [Hostel Management Website](https://hostel-management-vcet.netlify.app/)
-A role-based full-stack application for managing hostel operations  
-- Features: Attendance, Leave Request, Outpass, Warden Dashboard  
-- Tech Stack: MERN + Firebase Authentication + Email Notifications
-
-### 🎮 [Memory Card Matching Game](https://memorygamemini.netlify.app/)
-- Responsive browser-based card matching game  
-- Built with HTML, CSS, JavaScript (DOM manipulation + animations)
-
-### 🌐 [Portfolio Website](https://mathesh-port4.web.app/)
-- Personal static site built with HTML, CSS, JS  
-- Deployed via Firebase Hosting with SSL & custom domain
+`JavaScript`, `Java`, `React.js`, `Node.js`, `Firebase`, `MongoDB`, `Android Development`, `GitHub`, `Firebase Hosting`
 
 ---
 
-## 🧾 Certifications
+## 🧑‍💻 My Portfolio
 
-- **NPTEL** – Social Networks  
-- **Simplilearn** – Front End Development  
-- **Simplilearn** – Trust and Security with Google Cloud
-
----
-
-## 🌟 Interests
-
-- Full Stack Web Development  
-- Mobile App Development (Android, React Native)  
-- Cloud Computing & DevOps  
-- UI/UX Design  
-- Compiler Design & Data Science (Beginner level)
+- 🌐 [mathesh-port4.web.app](https://mathesh-port4.web.app/)
+- 💼 [GitHub Profile](https://github.com/mathesh4193)
 
 ---
 
-## 🔗 Connect with Me
+## 📄 Resume & Experience
 
-- 📧 Email: [mathesh4193@gmail.com](mailto:mathesh4193@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mathesh-m6383](https://www.linkedin.com/in/mathesh-m6383/)  
-- 🖥 GitHub: [github.com/mathesh4193](https://github.com/mathesh4193)
+- 📄 Android Developer Intern – NSIC, Chennai  
+- ☁️ Cloud Intern – Quantanics Techserv Pvt Ltd, Madurai  
+- 📝 Projects: Hostel System, FitBuddy, Sweet Store App, Card Game, Portfolio Website
 
 ---
 
-⚡ *“Building user-friendly, performance-focused apps with purpose.”*
+## 📫 Reach Me At
+
+- 📧 Email: [mathesh4193@gmail.com](mailto:mathesh4193@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/mathesh-m6383](https://www.linkedin.com/in/mathesh-m6383/)
+- 🐙 GitHub: [@mathesh4193](https://github.com/mathesh4193)
+
+---
+
+> “Building user-focused applications with clean code, cloud-ready deployment, and a passion for learning.”

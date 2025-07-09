@@ -1,61 +1,56 @@
 # Hi 👋, I'm Mathesh M
 
-Hello! I'm **Mathesh M**, a Computer Science Engineering student from Velammal College of Engineering and Technology, Madurai.  
-I'm passionate about full stack development and mobile app development. I enjoy building real-world, scalable solutions that make an impact.  
-I'm always curious to explore new technologies and constantly improve my skills.
+Hello! I'm **Mathesh M**, a final-year Computer Science Engineering student from Velammal College of Engineering and Technology, Madurai.  
+I'm passionate about Full Stack Web Development and Cloud Computing. I love turning real-world problems into scalable, efficient software solutions using modern technologies.
 
 ---
 
-## 🔭 Current Projects
+## 🔭 Full Stack & Cloud Projects
 
-- **🏨 Hostel Management System**  
-  A cloud-based system for handling student attendance, leave, outpass, warden approvals, and mess tracking.  
-  👉 [hostel-management-vcet.netlify.app](https://hostel-management-vcet.netlify.app/)
+### 🏨 Hostel Management System  
+A cloud-integrated web application to manage hostel operations  
+- Features: Attendance, Leave Requests, Outpass Generation, Warden Dashboard  
+- Tech Stack: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Firebase Auth`, `Email Notifications`  
+- Hosting: Deployed using `Firebase Hosting`  
+🔗 [Live Demo](https://hostel-management-vcet.netlify.app/)
 
-- **💪 FitBuddy** – A mobile app to find gym partners within 5km  
-  Built using React Native and Node.js  
-  Features: Chat, Emergency Button, Trainer Selection, Workout Scheduling
+---
 
-- **🍬 Sweet Store Management**  
-  Flutter app with Firebase for fund tracking, snack purchases, and delivery tracking
+### ☁️ Cloud-based Internship Projects  
+**Quantanics Techserv Pvt Ltd – Cloud Intern**  
+- Designed secure and scalable cloud architectures  
+- Deployed containerized solutions using `Docker`  
+- Practiced cloud workflows using `AWS` for real-time problems
 
 ---
 
 ## 🌱 Currently Learning
 
 - `React Native`  
-- `Cloud Deployment with AWS & Docker`  
-- `Advanced JavaScript`  
+- `Cloud Deployment (AWS, Docker)`  
+- `Advanced Backend with Node.js and MongoDB`
 
 ---
 
 ## 💬 Ask Me About
 
-`JavaScript`, `Java`, `React.js`, `Node.js`, `Firebase`, `MongoDB`, `Android Development`, `GitHub`, `Firebase Hosting`
+`React.js`, `Node.js`, `MongoDB`, `Express.js`, `Firebase`, `Docker`, `AWS`, `GitHub`
 
 ---
 
-## 🧑‍💻 My Portfolio
+## 🧑‍💻 Portfolio
 
 - 🌐 [mathesh-port4.web.app](https://mathesh-port4.web.app/)
 - 💼 [GitHub Profile](https://github.com/mathesh4193)
 
 ---
 
-## 📄 Resume & Experience
+## 📫 Get in Touch
 
-- 📄 Android Developer Intern – NSIC, Chennai  
-- ☁️ Cloud Intern – Quantanics Techserv Pvt Ltd, Madurai  
-- 📝 Projects: Hostel System, FitBuddy, Sweet Store App, Card Game, Portfolio Website
-
----
-
-## 📫 Reach Me At
-
-- 📧 Email: [mathesh4193@gmail.com](mailto:mathesh4193@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/mathesh-m6383](https://www.linkedin.com/in/mathesh-m6383/)
+- 📧 Email: [mathesh4193@gmail.com](mailto:mathesh4193@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/mathesh-m6383](https://www.linkedin.com/in/mathesh-m6383/)  
 - 🐙 GitHub: [@mathesh4193](https://github.com/mathesh4193)
 
 ---
 
-> “Building user-focused applications with clean code, cloud-ready deployment, and a passion for learning.”
+> “Focused on building scalable full stack apps and deploying them in the cloud with confidence.”

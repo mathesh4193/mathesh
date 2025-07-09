@@ -1,56 +1,21 @@
-# Hi 👋, I'm Mathesh M
+<h1 align="center">Hi 👋, I'm Mathesh M</h1>
+<h3 align="center">a final-year Computer Science Engineering student from Velammal College of Engineering and Technology, Madurai. I'm passionate about Full Stack Web Development and Cloud Computing. I love turning real-world problems into scalable, efficient software solutions using modern technologies.</h3>
 
-Hello! I'm **Mathesh M**, a final-year Computer Science Engineering student from Velammal College of Engineering and Technology, Madurai.  
-I'm passionate about Full Stack Web Development and Cloud Computing. I love turning real-world problems into scalable, efficient software solutions using modern technologies.
+- 🔭 I’m currently working on [Hostel Management System](https://hostel-management-vcet.netlify.app/)
 
----
+- 🌱 I’m currently learning **React Native,Cloud Deployment (AWS, Docker),Advanced Backend with Node.js and MongoDB**
 
-## 🔭 Full Stack & Cloud Projects
+- 👨‍💻 All of my projects are available at [https://mathesh-port4.web.app/](https://mathesh-port4.web.app/)
 
-### 🏨 Hostel Management System  
-A cloud-integrated web application to manage hostel operations  
-- Features: Attendance, Leave Requests, Outpass Generation, Warden Dashboard  
-- Tech Stack: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Firebase Auth`, `Email Notifications`  
-- Hosting: Deployed using `Firebase Hosting`  
-🔗 [Live Demo](https://hostel-management-vcet.netlify.app/)
+- 💬 Ask me about **`React.js`, `Node.js`, `MongoDB`, `Express.js`, `Firebase`, `Docker`, `AWS`, `GitHub`**
 
----
+- 📫 How to reach me **mathesh4193@gmail.com**
 
-### ☁️ Cloud-based Internship Projects  
-**Quantanics Techserv Pvt Ltd – Cloud Intern**  
-- Designed secure and scalable cloud architectures  
-- Deployed containerized solutions using `Docker`  
-- Practiced cloud workflows using `AWS` for real-time problems
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mathesh-m6383/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathesh-m6383/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/22csea44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/22csea44" height="30" width="40" /></a>
+</p>
 
----
-
-## 🌱 Currently Learning
-
-- `React Native`  
-- `Cloud Deployment (AWS, Docker)`  
-- `Advanced Backend with Node.js and MongoDB`
-
----
-
-## 💬 Ask Me About
-
-`React.js`, `Node.js`, `MongoDB`, `Express.js`, `Firebase`, `Docker`, `AWS`, `GitHub`
-
----
-
-## 🧑‍💻 Portfolio
-
-- 🌐 [mathesh-port4.web.app](https://mathesh-port4.web.app/)
-- 💼 [GitHub Profile](https://github.com/mathesh4193)
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: [mathesh4193@gmail.com](mailto:mathesh4193@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/mathesh-m6383](https://www.linkedin.com/in/mathesh-m6383/)  
-- 🐙 GitHub: [@mathesh4193](https://github.com/mathesh4193)
-
----
-
-> “Focused on building scalable full stack apps and deploying them in the cloud with confidence.”
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>

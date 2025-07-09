@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathesh M</h1>
-<h3 align="center">a final-year Computer Science Engineering student from Velammal College of Engineering and Technology, Madurai. I'm passionate about Full Stack Web Development and Cloud Computing. I love turning real-world problems into scalable, efficient software solutions using modern technologies.</h3>
+<h3 align="center">A final-year Computer Science Engineering student from Velammal College of Engineering and Technology, Madurai. I'm passionate about Full Stack Web Development and Cloud Computing. I love turning real-world problems into scalable, efficient software solutions using modern technologies.</h3>
 
 - 🔭 I’m currently working on [Hostel Management System](https://hostel-management-vcet.netlify.app/)
 
